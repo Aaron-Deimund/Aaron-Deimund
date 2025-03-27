@@ -2,7 +2,7 @@
 
 ## Senior Software Developer
 
-<acdeimund@gmail.com> | [github](https://github.com/Aaron-Deimund) | [linkedin](https://www.linkedin.com/in/aaron-deimund) | [Resume](https://www.github.com/Aaron-Deimund/Aaron-Deimund?tab=readme-ov-file)
+<ACDeimund@gmail.com> | [GitHub](https://github.com/Aaron-Deimund) | [LinkedIn](https://www.linkedin.com/in/aaron-deimund) | [Resume](https://www.github.com/Aaron-Deimund/Aaron-Deimund?tab=readme-ov-file)
 
 ## Professional Overview
 
